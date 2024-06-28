@@ -1,2 +1,2 @@
 # myapp-brushstrokes
-Web Application
+My Web Application to puplish my arts
